@@ -4,7 +4,7 @@ title: The Case of the Italian Olives
 
 This is the home page
 
-## Lets have fun.yayy
+## Lets have fun
 
 >here is a quote
 
